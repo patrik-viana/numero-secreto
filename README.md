@@ -15,7 +15,7 @@
     :construction:  Projeto em construção  :construction:
 </h4>
 
-# Autores
+# Autor
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/158346615?v=4" width=115><br><sub>Patrik Machado Viana</sub>](https://github.com/patrik-viana) |
 | :---:
