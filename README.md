@@ -4,6 +4,9 @@
   <img src="./img/bg.png" />
 </p>
 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/patrik-viana/numero-secreto)
+![GitHub last commit](https://img.shields.io/github/last-commit/patrik-viana/numero-secreto)
+
 <p align="center">
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
