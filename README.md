@@ -15,11 +15,7 @@
     :construction:  Projeto em construção  :construction:
 </h4>
 
-# 📁 Acesso ao projeto
+# Autores
 
-**Indique como é possível baixar ou acessar o código fonte do projeto, seja projeto inicial ou final**
-
-# 🛠️ Abrir e rodar o projeto
-
-**Apresente as instruções necessárias para abrir e executar o projeto**
-
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/158346615?v=4" width=115><br><sub>Patrik Machado Viana</sub>](https://github.com/patrik-viana) |
+| :---:
